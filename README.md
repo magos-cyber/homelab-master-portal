@@ -2,11 +2,11 @@
 
 Master portal for all homelab tools and scripts. A complete collection of repositories for self-hosting, automation, and infrastructure management.
 
-## 🌐 Live Portal
+## [GLOBE] Live Portal
 
 Visit: https://magos-cyber.github.io/homelab-master-portal
 
-## 📦 Repositories
+## [PACKAGE] Repositories
 
 | Repository | Description | Contents |
 |------------|-------------|----------|
@@ -17,7 +17,7 @@ Visit: https://magos-cyber.github.io/homelab-master-portal
 | [sysadmin-bash-toolkit](https://github.com/magos-cyber/sysadmin-bash-toolkit) | Sysadmin scripts | Hardening, monitoring, VPN, backups |
 | [go-cli-tools](https://github.com/magos-cyber/go-cli-tools) | Go CLI tools | Proxmox CLI, Docker manager, network diagnostics |
 
-## 🚀 Quick Start
+## [ROCKET] Quick Start
 
 ```bash
 # Clone all repos
@@ -29,6 +29,6 @@ git clone https://github.com/magos-cyber/sysadmin-bash-toolkit.git
 git clone https://github.com/magos-cyber/go-cli-tools.git
 ```
 
-## 📜 License
+## [SCROLL] License
 
 MIT License — see [LICENSE](LICENSE) for details.
